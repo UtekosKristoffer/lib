@@ -5,6 +5,7 @@
  * @module utils
  * @description Utility functions for various tasks
  * @function menuReducer
+ * @function normalizeShopifyUrl
  * @function className
  * @function safeJsonParse
  */
